@@ -1,0 +1,9 @@
+*.log
+.DS_Store
+/bootstrap/*
+/storage/*
+/node_modules
+/.env
+/vendor
+/.env.backup
+
